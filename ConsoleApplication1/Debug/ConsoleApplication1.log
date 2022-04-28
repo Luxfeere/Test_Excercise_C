@@ -1,0 +1,2 @@
+﻿S:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: Katalog pośredni (Debug\) zawiera pliki udostępnione z innego projektu (ConsoleApplication1.vcxproj). Może to spowodować niepoprawne zachowanie podczas oczyszczania i ponownej kompilacji.
+  ConsoleApplication1.vcxproj -> S:\Bufor\Zadanie_C\Zadanie_Testowe\Debug\Zadanie_Testowe_C.exe
